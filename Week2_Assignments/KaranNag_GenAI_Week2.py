@@ -155,7 +155,6 @@ with open("ai_students.txt", "r") as file:
             print(f"Name: {name}, Marks: {marks}, Grade: {grade}")
 
 # Task 5: Real-World Mini Project
-# File: ai_prompt_logger.py
 
 from datetime import datetime
 
